@@ -23,9 +23,9 @@ Mobile.tap(findTestObject('Object Repository/Login/android.widget.ImageView'), 0
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.ImageView (1)'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText'), 'dika12', 0)
+Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText'), Username, 0)
 
-Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText (1)'), 'Dika12', 0)
+Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText (1)'), Password, 0)
 
 Mobile.hideKeyboard()
 
