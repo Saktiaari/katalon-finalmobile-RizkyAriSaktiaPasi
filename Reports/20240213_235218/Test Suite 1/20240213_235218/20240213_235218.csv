@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 1,,,,13-02-2024 23:52:25,13-02-2024 23:56:28,"4m - 3,067s",PASSED
+,,,,,,,
+Test Cases/Login,,,,13-02-2024 23:52:25,13-02-2024 23:53:13,"48,090s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:52:26,13-02-2024 23:52:51,"25,301s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,13-02-2024 23:52:51,13-02-2024 23:52:55,"3,873s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView (1)""), 0)",,,,13-02-2024 23:52:55,13-02-2024 23:52:56,"1,380s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText""), Username, 0)",,,,13-02-2024 23:52:56,13-02-2024 23:52:59,"3,152s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText (1)""), Password, 0)",,,,13-02-2024 23:52:59,13-02-2024 23:53:02,"3,256s",PASSED
+hideKeyboard(),,,,13-02-2024 23:53:02,13-02-2024 23:53:06,"3,237s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 23:53:06,13-02-2024 23:53:07,"0,802s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - NO""), 0)",,,,13-02-2024 23:53:07,13-02-2024 23:53:10,"3,315s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,13-02-2024 23:53:10,13-02-2024 23:53:12,"1,887s",PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Login/Label Login""), 5)",,,,13-02-2024 23:53:12,13-02-2024 23:53:13,"1,279s",PASSED
+,,,,,,,
+Test Cases/Login,,,,13-02-2024 23:53:13,13-02-2024 23:53:58,"45,369s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:53:13,13-02-2024 23:53:24,"11,100s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,13-02-2024 23:53:24,13-02-2024 23:53:28,"3,865s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView (1)""), 0)",,,,13-02-2024 23:53:28,13-02-2024 23:53:29,"0,646s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText""), Username, 0)",,,,13-02-2024 23:53:29,13-02-2024 23:53:32,"3,045s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText (1)""), Password, 0)",,,,13-02-2024 23:53:32,13-02-2024 23:53:34,"2,266s",PASSED
+hideKeyboard(),,,,13-02-2024 23:53:34,13-02-2024 23:53:37,"3,050s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 23:53:37,13-02-2024 23:53:38,"0,650s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - NO""), 0)",,,,13-02-2024 23:53:38,13-02-2024 23:53:56,"18,212s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,13-02-2024 23:53:56,13-02-2024 23:53:57,"1,236s",PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Login/Label Login""), 5)",,,,13-02-2024 23:53:57,13-02-2024 23:53:58,"1,256s",PASSED
+,,,,,,,
+Test Cases/Login,,,,13-02-2024 23:55:56,13-02-2024 23:56:28,"31,894s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,13-02-2024 23:55:56,13-02-2024 23:56:07,"11,702s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,13-02-2024 23:56:07,13-02-2024 23:56:11,"3,727s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView (1)""), 0)",,,,13-02-2024 23:56:11,13-02-2024 23:56:12,"0,608s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText""), Username, 0)",,,,13-02-2024 23:56:12,13-02-2024 23:56:15,"3,562s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText (1)""), Password, 0)",,,,13-02-2024 23:56:15,13-02-2024 23:56:18,"2,230s",PASSED
+hideKeyboard(),,,,13-02-2024 23:56:18,13-02-2024 23:56:21,"3,122s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - LOGIN""), 0)",,,,13-02-2024 23:56:21,13-02-2024 23:56:21,"0,644s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - NO""), 0)",,,,13-02-2024 23:56:21,13-02-2024 23:56:24,"2,958s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,13-02-2024 23:56:24,13-02-2024 23:56:27,"2,769s",PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Login/Label Login""), 5)",,,,13-02-2024 23:56:27,13-02-2024 23:56:28,"0,534s",PASSED

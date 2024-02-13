@@ -31,11 +31,14 @@ Mobile.hideKeyboard()
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button - LOGIN'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button - NO'), 0)
+def VerifyPassSalah = Mobile.verifyElementVisible(findTestObject('Object Repository/Login/android.widget.TextView - Incorrect user name or password'), 5, FailureHandling.OPTIONAL)
 
-Mobile.tap(findTestObject('Object Repository/Login/android.widget.ImageView'), 0)
+if (VerifyPassSalah) {
+	println("username atau password salah, silahkan klik lupa password atau mendaftar")
+} else {
+	println("Berhasil Login")
+	Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button - NO'), 0)
+}
 
-Mobile.verifyElementVisible(findTestObject('Object Repository/Login/Label Login'), 5)
 
-//Mobile.closeApplication()
 
