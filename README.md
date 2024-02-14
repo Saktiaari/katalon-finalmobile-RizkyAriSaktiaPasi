@@ -24,5 +24,5 @@
 9. Jika elemen tersebut muncul, maka akan mencetak pesan “keranjang kosong, silahkan tambahkan barang”
 10. Jika tidak, maka akan mengeklik tombol cekout, kemudian tombol PAY NOW, dan memastikan elemen “verify sukses cekout” muncul sebelum mencetak pesan “berhasil checkout”
 
-Link video
+Link video https://drive.google.com/file/d/12PuEZDHNOfuYQTfg43t7ws0NFroRaaA7/view?usp=sharing
  
