@@ -18,14 +18,14 @@
       <variableId>79c462f6-815a-4fa0-861c-eeb0d3de4b59</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'dika12'</defaultValue>
       <description></description>
       <id>4400e518-bb5f-4af4-b21b-6f4874180306</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'Dika12'</defaultValue>
       <description></description>
       <id>79c462f6-815a-4fa0-861c-eeb0d3de4b59</id>
       <masked>false</masked>

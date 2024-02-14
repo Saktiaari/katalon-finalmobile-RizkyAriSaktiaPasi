@@ -39,4 +39,11 @@
          <variableId>79c462f6-815a-4fa0-861c-eeb0d3de4b59</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>6fe7b53b-6ca9-408c-8a74-c7fa2d18e9e4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

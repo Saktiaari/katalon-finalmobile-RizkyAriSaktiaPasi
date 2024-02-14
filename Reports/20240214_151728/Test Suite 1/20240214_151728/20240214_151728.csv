@@ -1,0 +1,62 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 1,,,,14-02-2024 15:17:35,14-02-2024 15:20:36,"3m - 0,980s",PASSED
+,,,,,,,
+Test Cases/Login,,,,14-02-2024 15:17:35,14-02-2024 15:18:21,"45,780s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 15:17:36,14-02-2024 15:18:01,"25,615s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,14-02-2024 15:18:01,14-02-2024 15:18:04,"2,385s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView (1)""), 0)",,,,14-02-2024 15:18:04,14-02-2024 15:18:05,"1,605s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText""), Username, 0)",,,,14-02-2024 15:18:05,14-02-2024 15:18:09,"3,836s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText (1)""), Password, 0)",,,,14-02-2024 15:18:09,14-02-2024 15:18:12,"2,757s",PASSED
+hideKeyboard(),,,,14-02-2024 15:18:12,14-02-2024 15:18:14,"1,690s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 15:18:14,14-02-2024 15:18:14,"0,806s",PASSED
+"VerifyPassSalah = verifyElementVisible(findTestObject(""Object Repository/Login/android.widget.TextView - Incorrect user name or password""), 5, OPTIONAL)",,,,14-02-2024 15:18:14,14-02-2024 15:18:20,"5,935s",PASSED
+if (VerifyPassSalah),,,,14-02-2024 15:18:20,14-02-2024 15:18:20,"0,020s",PASSED
+else,,,,14-02-2024 15:18:20,14-02-2024 15:18:21,"0,509s",PASSED
+,,,,,,,
+Test Cases/Login,,,,14-02-2024 15:18:21,14-02-2024 15:18:53,"32,259s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 15:18:21,14-02-2024 15:18:33,"11,874s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,14-02-2024 15:18:33,14-02-2024 15:18:37,"4,327s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView (1)""), 0)",,,,14-02-2024 15:18:37,14-02-2024 15:18:39,"1,441s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText""), Username, 0)",,,,14-02-2024 15:18:39,14-02-2024 15:18:42,"3,477s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText (1)""), Password, 0)",,,,14-02-2024 15:18:42,14-02-2024 15:18:45,"2,441s",PASSED
+hideKeyboard(),,,,14-02-2024 15:18:45,14-02-2024 15:18:46,"1,492s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 15:18:46,14-02-2024 15:18:47,"0,801s",PASSED
+"VerifyPassSalah = verifyElementVisible(findTestObject(""Object Repository/Login/android.widget.TextView - Incorrect user name or password""), 5, OPTIONAL)",,,,14-02-2024 15:18:47,14-02-2024 15:18:53,"5,926s",PASSED
+if (VerifyPassSalah),,,,14-02-2024 15:18:53,14-02-2024 15:18:53,"0,000s",PASSED
+else,,,,14-02-2024 15:18:53,14-02-2024 15:18:53,"0,429s",PASSED
+,,,,,,,
+Test Cases/Login,,,,14-02-2024 15:18:53,14-02-2024 15:19:22,"28,994s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 15:18:53,14-02-2024 15:19:04,"10,649s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,14-02-2024 15:19:04,14-02-2024 15:19:07,"3,386s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView (1)""), 0)",,,,14-02-2024 15:19:07,14-02-2024 15:19:09,"1,391s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText""), Username, 0)",,,,14-02-2024 15:19:09,14-02-2024 15:19:12,"3,456s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText (1)""), Password, 0)",,,,14-02-2024 15:19:12,14-02-2024 15:19:15,"2,391s",PASSED
+hideKeyboard(),,,,14-02-2024 15:19:15,14-02-2024 15:19:16,"0,907s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 15:19:16,14-02-2024 15:19:16,"0,653s",PASSED
+"VerifyPassSalah = verifyElementVisible(findTestObject(""Object Repository/Login/android.widget.TextView - Incorrect user name or password""), 5, OPTIONAL)",,,,14-02-2024 15:19:16,14-02-2024 15:19:22,"5,777s",PASSED
+if (VerifyPassSalah),,,,14-02-2024 15:19:22,14-02-2024 15:19:22,"0,000s",PASSED
+else,,,,14-02-2024 15:19:22,14-02-2024 15:19:22,"0,333s",PASSED
+,,,,,,,
+Test Cases/Login,,,,14-02-2024 15:19:22,14-02-2024 15:19:51,"28,381s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 15:19:22,14-02-2024 15:19:33,"10,949s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,14-02-2024 15:19:33,14-02-2024 15:19:37,"3,619s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView (1)""), 0)",,,,14-02-2024 15:19:37,14-02-2024 15:19:39,"1,810s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText""), Username, 0)",,,,14-02-2024 15:19:39,14-02-2024 15:19:43,"3,830s",PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText (1)""), Password, 0)",,,,14-02-2024 15:19:43,14-02-2024 15:19:45,"2,639s",PASSED
+hideKeyboard(),,,,14-02-2024 15:19:45,14-02-2024 15:19:46,"0,925s",PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 15:19:46,14-02-2024 15:19:47,"0,632s",PASSED
+"VerifyPassSalah = verifyElementVisible(findTestObject(""Object Repository/Login/android.widget.TextView - Incorrect user name or password""), 5, OPTIONAL)",,,,14-02-2024 15:19:47,14-02-2024 15:19:51,"3,936s",PASSED
+if (VerifyPassSalah),,,,14-02-2024 15:19:51,14-02-2024 15:19:51,"0,006s",PASSED
+,,,,,,,
+Test Cases/Checkout,,,,14-02-2024 15:19:51,14-02-2024 15:20:36,"45,017s",PASSED
+"startApplication(""C:\Users\rizky\Downloads\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 15:19:51,14-02-2024 15:20:02,"10,789s",PASSED
+"tap(findTestObject(""Object Repository/Checkout/android.widget.ImageView""), 0)",,,,14-02-2024 15:20:02,14-02-2024 15:20:06,"4,268s",PASSED
+"tap(findTestObject(""Object Repository/Checkout/android.widget.TextView - LOGIN""), 0)",,,,14-02-2024 15:20:06,14-02-2024 15:20:08,"1,841s",PASSED
+"setText(findTestObject(""Object Repository/Checkout/android.widget.EditText""), ""dika12"", 0)",,,,14-02-2024 15:20:08,14-02-2024 15:20:11,"3,487s",PASSED
+"setText(findTestObject(""Object Repository/Checkout/android.widget.EditText (1)""), ""Dika12"", 0)",,,,14-02-2024 15:20:11,14-02-2024 15:20:14,"2,466s",PASSED
+"tap(findTestObject(""Object Repository/Checkout/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 15:20:14,14-02-2024 15:20:15,"1,170s",PASSED
+"tap(findTestObject(""Object Repository/Checkout/android.widget.Button - NO""), 0)",,,,14-02-2024 15:20:15,14-02-2024 15:20:20,"5,208s",PASSED
+"tap(findTestObject(""Object Repository/Checkout/android.widget.ImageView (1)""), 0)",,,,14-02-2024 15:20:20,14-02-2024 15:20:22,"1,522s",PASSED
+"VerifyKeranjang = verifyElementVisible(findTestObject(""Object Repository/Checkout/Keranjang Kosong""), 3, OPTIONAL)",,,,14-02-2024 15:20:22,14-02-2024 15:20:26,"4,161s",PASSED
+if (VerifyKeranjang),,,,14-02-2024 15:20:26,14-02-2024 15:20:26,"0,002s",PASSED
+else,,,,14-02-2024 15:20:26,14-02-2024 15:20:36,"9,903s",PASSED
